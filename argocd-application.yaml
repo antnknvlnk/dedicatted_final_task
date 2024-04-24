@@ -7,7 +7,6 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/antnknvlnk/dedicatted_final_task.git'
-    path: mychart
     targetRevision: HEAD
   destination:
     server: 'https://kubernetes.default.svc'
