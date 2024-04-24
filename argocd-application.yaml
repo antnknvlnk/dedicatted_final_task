@@ -8,6 +8,7 @@ spec:
   source:
     repoURL: 'https://github.com/antnknvlnk/dedicatted_final_task.git'
     targetRevision: HEAD
+    path: ""
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: 'my-namespace'
